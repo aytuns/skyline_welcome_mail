@@ -1,5 +1,5 @@
 # SKYLINE WELCOME MESSAGE
 
+## To [upload](https://imgbb.com/) pictures online and get a URL
 
-## https://imgbb.com/ to upload pictures online and get a URL
-## https://putsmail.com/ to test the email HTML
+## To [test](https://putsmail.com/) the email HTML

@@ -1,4 +1,4 @@
-# SKYLINE WELCOME MESSAGE
+# SKYLINE WELCOME EMAIL HTML MESSAGE
 
 ## To [upload](https://imgbb.com/) pictures online and get a URL
 
